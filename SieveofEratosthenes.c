@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
+// algorithm for prime number
 int main(){
 	
 	int array[100];
